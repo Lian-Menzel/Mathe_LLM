@@ -1,0 +1,740 @@
+Mathematik – Gymnasium Sachsen
+Themenstruktur Klassenstufen 5–10 und Jahrgangsstufen 11–12
+Stand: Oktober 2026
+
+HINWEISE
+- Diese Datei ist eine systematisch geordnete Themenübersicht auf Grundlage des sächsischen Lehrplans Mathematik für das Gymnasium.
+- Die Inhalte sind nach mathematischen Fachgebieten sortiert, nicht nach der Reihenfolge im Unterricht oder in einem bestimmten Lehrbuch.
+- Die Zuordnung einzelner Unterthemen zu Klassenstufen kann je nach Lehrplanfassung, Kursart und schulinternem Curriculum variieren.
+- Die Liste ist möglichst umfassend, aber keine wortgetreue Wiedergabe des Lehrplans oder eines Schulbuchs. Wahlbereiche und vertiefende Inhalte sind als solche zu verstehen.
+- Für eine verbindliche Zuordnung zu Klassenstufen bitte den aktuellen offiziellen Lehrplan prüfen.
+
+Mathematik
+├── 1. Zahlen und Zahlbereiche
+│   ├── Natürliche Zahlen
+│   │   ├── Zahlen lesen und schreiben
+│   │   ├── Stellenwertsystem und Stellenwerttafel
+│   │   ├── Zahlen vergleichen und ordnen
+│   │   ├── Runden und Überschlagen
+│   │   ├── Zahlengerade
+│   │   ├── Teilbarkeit
+│   │   ├── Teilbarkeitsregeln
+│   │   ├── Primzahlen und zusammengesetzte Zahlen
+│   │   ├── Primfaktorzerlegung
+│   │   ├── Teiler und Vielfache
+│   │   ├── Größter gemeinsamer Teiler (ggT)
+│   │   └── Kleinstes gemeinsames Vielfaches (kgV)
+│   ├── Ganze Zahlen
+│   │   ├── Positive und negative Zahlen
+│   │   ├── Betrag einer Zahl
+│   │   ├── Zahlen vergleichen und ordnen
+│   │   ├── Addition und Subtraktion
+│   │   ├── Multiplikation und Division
+│   │   ├── Rechenregeln und Klammern
+│   │   └── Zahlengerade und Koordinatensystem
+│   ├── Brüche und rationale Zahlen
+│   │   ├── Brüche darstellen und interpretieren
+│   │   ├── Echte und unechte Brüche
+│   │   ├── Gemischte Zahlen
+│   │   ├── Erweitern und Kürzen
+│   │   ├── Brüche vergleichen und ordnen
+│   │   ├── Brüche auf dem Zahlenstrahl
+│   │   ├── Addition und Subtraktion von Brüchen
+│   │   ├── Multiplikation von Brüchen
+│   │   ├── Division von Brüchen
+│   │   ├── Doppelbrüche
+│   │   ├── Dezimalbrüche und Dezimalzahlen
+│   │   ├── Endliche und periodische Dezimalzahlen
+│   │   ├── Umwandlung zwischen Bruch und Dezimalzahl
+│   │   └── Rechnen mit rationalen Zahlen
+│   ├── Reelle Zahlen
+│   │   ├── Irrationale Zahlen
+│   │   ├── Quadratwurzeln als Zahlen
+│   │   ├── Näherungswerte irrationaler Zahlen
+│   │   ├── Reelle Zahlengerade
+│   │   ├── Reelle Zahlen vergleichen und ordnen
+│   │   └── Zahlbereiche N, Z, Q und R
+│   ├── Potenzen
+│   │   ├── Potenzen mit natürlichen Exponenten
+│   │   ├── Potenzen mit ganzzahligen Exponenten
+│   │   ├── Potenzen mit rationalen Exponenten
+│   │   ├── Potenzgesetze
+│   │   ├── Zehnerpotenzen
+│   │   ├── Wissenschaftliche Schreibweise
+│   │   ├── Größenordnungen
+│   │   └── Potenzen mit Variablen
+│   ├── Wurzeln
+│   │   ├── Quadratwurzeln
+│   │   ├── Kubikwurzeln
+│   │   ├── Höhere Wurzeln
+│   │   ├── Wurzelgesetze
+│   │   ├── Wurzeln vereinfachen
+│   │   ├── Teilweises Wurzelziehen
+│   │   ├── Wurzeln und Potenzen
+│   │   ├── Nenner rational machen
+│   │   └── Irrationale Terme
+│   └── Rechnen und Schätzen
+│       ├── Grundrechenarten
+│       ├── Punkt-vor-Strich-Regel
+│       ├── Klammerregeln
+│       ├── Rechengesetze
+│       ├── Überschlagsrechnung
+│       ├── Plausibilitätsprüfung
+│       └── Taschenrechner und digitale Werkzeuge
+
+├── 2. Größen, Einheiten und Anwendungen
+│   ├── Längen und Strecken
+│   ├── Flächeninhalte
+│   ├── Volumen und Rauminhalt
+│   ├── Masse
+│   ├── Zeit und Zeitspannen
+│   ├── Geld und Währungen
+│   ├── Geschwindigkeit
+│   ├── Dichte als Anwendung
+│   ├── Einheiten umrechnen
+│   ├── Maßstab
+│   ├── Genauigkeit und sinnvolle Rundung
+│   ├── Näherungswerte und Messfehler
+│   ├── Sachaufgaben mit Größen
+│   ├── Tabellen, Fahrpläne und Diagramme auswerten
+│   └── Fermi-Aufgaben und realitätsnahe Schätzprobleme
+
+├── 3. Arithmetik und Rechenstrategien
+│   ├── Kopfrechnen
+│   ├── Schriftliche Rechenverfahren
+│   ├── Rechenvorteile nutzen
+│   ├── Distributivgesetz
+│   ├── Kommutativgesetz
+│   ├── Assoziativgesetz
+│   ├── Rechnen mit Brüchen und Dezimalzahlen
+│   ├── Rechnen mit Vorzeichen
+│   ├── Rechnen mit Potenzen und Wurzeln
+│   ├── Fehler finden und korrigieren
+│   └── Mathematische Lösungswege dokumentieren
+
+├── 4. Terme und algebraische Umformungen
+│   ├── Variablen und Platzhalter
+│   ├── Terme aufstellen
+│   ├── Terme aus Texten und Sachverhalten bilden
+│   ├── Wert eines Terms berechnen
+│   ├── Gleichartige Terme zusammenfassen
+│   ├── Klammern auflösen
+│   ├── Klammern setzen
+│   ├── Ausmultiplizieren
+│   ├── Ausklammern und Faktorisieren
+│   ├── Distributivgesetz
+│   ├── Binomische Formeln
+│   │   ├── Quadrat einer Summe
+│   │   ├── Quadrat einer Differenz
+│   │   └── Produkt aus Summe und Differenz
+│   ├── Algebraische Brüche
+│   │   ├── Definitionsbedingungen
+│   │   ├── Kürzen und Erweitern
+│   │   ├── Addieren und Subtrahieren
+│   │   ├── Multiplizieren und Dividieren
+│   │   └── Vereinfachen komplexer Bruchterme
+│   ├── Potenz- und Wurzelterme umformen
+│   ├── Terme mit mehreren Variablen
+│   ├── Äquivalente Umformungen
+│   └── Formeln umstellen
+
+├── 5. Gleichungen und Ungleichungen
+│   ├── Grundbegriffe
+│   │   ├── Gleichung, Variable und Lösung
+│   │   ├── Lösungsmenge
+│   │   ├── Äquivalenzumformungen
+│   │   ├── Probe
+│   │   └── Gleichungen aus Sachtexten aufstellen
+│   ├── Lineare Gleichungen
+│   │   ├── Gleichungen mit einer Variablen
+│   │   ├── Gleichungen mit Klammern
+│   │   ├── Gleichungen mit Brüchen
+│   │   ├── Gleichungen mit Variablen auf beiden Seiten
+│   │   ├── Sonderfälle: keine oder unendlich viele Lösungen
+│   │   └── Sachaufgaben und Modellierung
+│   ├── Verhältnis- und Bruchgleichungen
+│   ├── Quadratische Gleichungen
+│   │   ├── Gleichungen durch Wurzelziehen lösen
+│   │   ├── Faktorisieren und Satz vom Nullprodukt
+│   │   ├── Quadratische Ergänzung
+│   │   ├── Lösungsformel
+│   │   ├── Diskriminante und Anzahl der Lösungen
+│   │   └── Sachaufgaben
+│   ├── Gleichungen höheren Grades
+│   │   ├── Ausklammern
+│   │   ├── Substitution
+│   │   └── Polynomgleichungen in ausgewählten Fällen
+│   ├── Bruchgleichungen
+│   │   ├── Definitionsmenge
+│   │   ├── Hauptnenner bestimmen
+│   │   ├── Beseitigen der Nenner
+│   │   └── Lösungsprüfung
+│   ├── Wurzelgleichungen
+│   │   ├── Definitionsbedingungen
+│   │   ├── Quadrieren
+│   │   └── Scheinlösungen erkennen
+│   ├── Exponentialgleichungen
+│   │   ├── Gleiche Basis herstellen
+│   │   ├── Logarithmieren
+│   │   └── Näherungslösungen
+│   ├── Lineare Ungleichungen
+│   │   ├── Äquivalenzumformungen
+│   │   ├── Vorzeichenwechsel beim Multiplizieren oder Dividieren
+│   │   ├── Lösungsintervalle
+│   │   └── Darstellung auf der Zahlengeraden
+│   ├── Quadratische Ungleichungen
+│   ├── Betragsgleichungen und Betragsungleichungen
+│   └── Gleichungssysteme
+│       ├── Zwei lineare Gleichungen mit zwei Variablen
+│       ├── Einsetzungsverfahren
+│       ├── Gleichsetzungsverfahren
+│       ├── Additionsverfahren
+│       ├── Grafisches Lösungsverfahren
+│       ├── Anzahl der Lösungen
+│       ├── Lineare und quadratische Gleichungen im System
+│       └── Sachaufgaben mit mehreren Unbekannten
+
+├── 6. Zuordnungen, Proportionalität und Prozentrechnung
+│   ├── Zuordnungen
+│   │   ├── Tabellen und Wertetabellen
+│   │   ├── Pfeildiagramme
+│   │   ├── Zuordnungsvorschriften
+│   │   └── Graphische Darstellung
+│   ├── Proportionale Zuordnungen
+│   │   ├── Dreisatz
+│   │   ├── Proportionalitätsfaktor
+│   │   ├── Quotientengleichheit
+│   │   └── Graph als Gerade durch den Ursprung
+│   ├── Antiproportionale Zuordnungen
+│   │   ├── Umgekehrt proportionale Zusammenhänge
+│   │   ├── Produktgleichheit
+│   │   └── Graphische Darstellung
+│   ├── Andere Zuordnungen
+│   ├── Prozentrechnung
+│   │   ├── Grundwert
+│   │   ├── Prozentwert
+│   │   ├── Prozentsatz
+│   │   ├── Prozentuale Zu- und Abnahme
+│   │   ├── Mehrstufige Prozentrechnung
+│   │   ├── Rabatt, Steuer und Trinkgeld
+│   │   └── Prozentpunkte und prozentuale Änderung
+│   ├── Zinsrechnung
+│   │   ├── Einfache Zinsen
+│   │   ├── Kapital, Zinssatz und Zinszeit
+│   │   ├── Zinseszins
+│   │   └── Anwendungen auf Sparen und Kredite
+│   └── Wachstums- und Abnahmeprozesse
+│       ├── Lineares Wachstum
+│       ├── Exponentielles Wachstum
+│       ├── Wachstumsfaktor
+│       └── Vergleich linearer und exponentieller Prozesse
+
+├── 7. Funktionen und ihre Darstellungen
+│   ├── Grundlagen
+│   │   ├── Funktion und Zuordnung
+│   │   ├── Definitionsmenge
+│   │   ├── Wertemenge
+│   │   ├── Funktionswert
+│   │   ├── Funktionsgleichung
+│   │   ├── Wertetabelle
+│   │   ├── Graph
+│   │   ├── Ablesen und Berechnen von Funktionswerten
+│   │   ├── Nullstellen
+│   │   ├── Schnittpunkte
+│   │   ├── Monotonie
+│   │   ├── Symmetrie
+│   │   └── Transformationen von Graphen
+│   ├── Lineare Funktionen
+│   │   ├── Funktionsgleichung y = mx + b
+│   │   ├── Steigung
+│   │   ├── y-Achsenabschnitt
+│   │   ├── Gerade durch zwei Punkte
+│   │   ├── Parallelität und Senkrechtstehen
+│   │   ├── Nullstelle einer linearen Funktion
+│   │   └── Anwendungen und lineare Modelle
+│   ├── Quadratische Funktionen
+│   │   ├── Normalparabel
+│   │   ├── Allgemeine Form
+│   │   ├── Scheitelpunktform
+│   │   ├── Faktorform
+│   │   ├── Scheitelpunkt
+│   │   ├── Öffnung und Streckung
+│   │   ├── Verschiebung und Spiegelung
+│   │   ├── Nullstellen
+│   │   ├── Schnittpunkte mit Geraden
+│   │   ├── Schnittpunkte zweier Parabeln
+│   │   ├── Symmetrieachse
+│   │   └── Extremwertprobleme
+│   ├── Potenzfunktionen
+│   │   ├── Potenzfunktionen mit natürlichen Exponenten
+│   │   ├── Potenzfunktionen mit negativen Exponenten
+│   │   ├── Potenzfunktionen mit gebrochenen Exponenten
+│   │   ├── Graphen und Symmetrie
+│   │   └── Definitions- und Wertebereiche
+│   ├── Wurzelfunktionen
+│   │   ├── Quadratwurzelfunktion
+│   │   ├── Graph und Definitionsbereich
+│   │   └── Transformationen
+│   ├── Ganzrationale Funktionen
+│   │   ├── Polynome
+│   │   ├── Grad eines Polynoms
+│   │   ├── Nullstellen und Vielfachheiten
+│   │   ├── Endverhalten
+│   │   ├── Symmetrie
+│   │   ├── Faktorisierung
+│   │   └── Graphen qualitativ untersuchen
+│   ├── Gebrochen-rationale Funktionen
+│   │   ├── Definitionslücken
+│   │   ├── Polstellen
+│   │   ├── Asymptoten
+│   │   └── Graphen und Verhalten
+│   ├── Exponentialfunktionen
+│   │   ├── Exponentialfunktion f(x) = a^x
+│   │   ├── Natürliche Exponentialfunktion e^x
+│   │   ├── Exponentielles Wachstum und Zerfall
+│   │   ├── Wachstumsfaktor und Änderungsrate
+│   │   ├── Verdopplungszeit und Halbwertszeit
+│   │   ├── Verschiebung und Streckung
+│   │   └── Anwendungen
+│   ├── Logarithmusfunktionen
+│   │   ├── Logarithmus als Umkehrung des Potenzierens
+│   │   ├── Logarithmengesetze
+│   │   ├── Zehnerlogarithmus
+│   │   ├── Natürlicher Logarithmus
+│   │   ├── Logarithmusfunktion
+│   │   └── Exponentialgleichungen lösen
+│   ├── Trigonometrische Funktionen
+│   │   ├── Sinusfunktion
+│   │   ├── Kosinusfunktion
+│   │   ├── Tangensfunktion
+│   │   ├── Periodizität
+│   │   ├── Amplitude und Periode
+│   │   ├── Phasenverschiebung
+│   │   └── Modellierung periodischer Vorgänge
+│   ├── Verkettung und Umkehrung von Funktionen
+│   ├── Parameter in Funktionsgleichungen
+│   ├── Funktionen vergleichen und verknüpfen
+│   └── Mathematische Modellierung mit Funktionen
+
+├── 8. Geometrie in der Ebene
+│   ├── Grundbegriffe
+│   │   ├── Punkt, Gerade, Strecke und Strahl
+│   │   ├── Abstand und Länge
+│   │   ├── Winkel und Winkelmaß
+│   │   ├── Winkelarten
+│   │   ├── Nebenwinkel und Scheitelwinkel
+│   │   ├── Stufenwinkel und Wechselwinkel
+│   │   ├── Parallele und senkrechte Geraden
+│   │   └── Konstruktionen mit Zirkel und Lineal
+│   ├── Dreiecke
+│   │   ├── Dreiecksarten nach Seiten und Winkeln
+│   │   ├── Innenwinkelsumme
+│   │   ├── Außenwinkel
+│   │   ├── Seiten und Winkel berechnen
+│   │   ├── Dreieckskonstruktionen
+│   │   ├── Kongruenz
+│   │   ├── Kongruenzsätze
+│   │   ├── Mittelsenkrechte
+│   │   ├── Winkelhalbierende
+│   │   ├── Seitenhalbierende und Höhen
+│   │   ├── Umkreis und Inkreis
+│   │   └── Flächeninhalt und Umfang
+│   ├── Vierecke und Vielecke
+│   │   ├── Quadrat und Rechteck
+│   │   ├── Parallelogramm
+│   │   ├── Raute
+│   │   ├── Trapez
+│   │   ├── Drachenviereck
+│   │   ├── Eigenschaften und Symmetrien
+│   │   ├── Umfang und Flächeninhalt
+│   │   └── Regelmäßige Vielecke
+│   ├── Kreis
+│   │   ├── Mittelpunkt, Radius und Durchmesser
+│   │   ├── Umfang des Kreises
+│   │   ├── Flächeninhalt des Kreises
+│   │   ├── Kreisbogen
+│   │   ├── Kreisausschnitt und Kreissektor
+│   │   ├── Kreisring
+│   │   ├── Sehnen und Tangenten
+│   │   └── Winkel am Kreis
+│   ├── Umfang und Flächeninhalt
+│   │   ├── Flächen zerlegen und ergänzen
+│   │   ├── Zusammengesetzte Figuren
+│   │   ├── Maßstabsgetreue Zeichnungen
+│   │   └── Flächenberechnungen in Sachaufgaben
+│   ├── Satz des Pythagoras
+│   │   ├── Hypotenuse und Katheten
+│   │   ├── Fehlende Seiten berechnen
+│   │   ├── Umkehrung des Satzes
+│   │   └── Anwendungen in ebenen und räumlichen Figuren
+│   ├── Ähnlichkeit
+│   │   ├── Ähnliche Figuren
+│   │   ├── Streckungsfaktor
+│   │   ├── Verhältnis entsprechender Seiten
+│   │   ├── Strahlensätze
+│   │   └── Anwendungen und Berechnungen
+│   ├── Trigonometrie am rechtwinkligen Dreieck
+│   │   ├── Sinus, Kosinus und Tangens
+│   │   ├── Seiten und Winkel berechnen
+│   │   ├── Höhen- und Entfernungsbestimmung
+│   │   └── Steigungswinkel und Neigungswinkel
+│   ├── Trigonometrie an beliebigen Dreiecken
+│   │   ├── Sinussatz
+│   │   ├── Kosinussatz
+│   │   └── Flächeninhalt mit trigonometrischen Größen
+│   ├── Symmetrie und Kongruenz
+│   │   ├── Achsensymmetrie
+│   │   ├── Punktsymmetrie
+│   │   ├── Verschiebung
+│   │   ├── Drehung
+│   │   ├── Spiegelung
+│   │   └── Symmetrie in Mustern und Ornamenten
+│   └── Geometrische Begründungen
+│       ├── Vermutungen aufstellen
+│       ├── Aussagen begründen
+│       ├── Gegenbeispiele finden
+│       └── Beweise und Beweisschritte
+
+├── 9. Raumgeometrie
+│   ├── Körper und ihre Eigenschaften
+│   │   ├── Würfel und Quader
+│   │   ├── Prisma
+│   │   ├── Pyramide
+│   │   ├── Zylinder
+│   │   ├── Kegel
+│   │   ├── Kugel
+│   │   ├── Netze und Schrägbilder
+│   │   └── Körper zusammensetzen und zerlegen
+│   ├── Oberflächeninhalt
+│   │   ├── Oberflächen von Würfel und Quader
+│   │   ├── Oberflächen von Prismen und Pyramiden
+│   │   ├── Mantelfläche von Zylinder und Kegel
+│   │   ├── Kugeloberfläche
+│   │   └── Zusammengesetzte Körper
+│   ├── Volumen
+│   │   ├── Volumen von Würfel und Quader
+│   │   ├── Volumen von Prismen
+│   │   ├── Volumen von Pyramiden
+│   │   ├── Volumen von Zylindern
+│   │   ├── Volumen von Kegeln
+│   │   ├── Volumen der Kugel
+│   │   ├── Zusammengesetzte Körper
+│   │   └── Einheiten und Umrechnungen
+│   ├── Räumliche Lagebeziehungen
+│   │   ├── Punkte, Geraden und Ebenen im Raum
+│   │   ├── Parallelität und Orthogonalität
+│   │   ├── Abstände im Raum
+│   │   └── Winkel im Raum
+│   └── Raumgeometrie in Koordinaten
+│       ├── Dreidimensionales Koordinatensystem
+│       ├── Punkte und Vektoren im Raum
+│       └── Abstände und geometrische Anwendungen
+
+├── 10. Koordinatengeometrie und analytische Geometrie
+│   ├── Koordinatensystem der Ebene
+│   │   ├── Punkte eintragen und ablesen
+│   │   ├── Quadranten
+│   │   ├── Abstand zweier Punkte
+│   │   ├── Mittelpunkt einer Strecke
+│   │   └── Figuren im Koordinatensystem
+│   ├── Geraden im Koordinatensystem
+│   │   ├── Steigung aus zwei Punkten
+│   │   ├── Geradengleichung
+│   │   ├── Schnittpunkt zweier Geraden
+│   │   ├── Parallelität und Orthogonalität
+│   │   └── Lineare Gleichungssysteme grafisch lösen
+│   ├── Vektoren
+│   │   ├── Vektor als Verschiebung
+│   │   ├── Ortsvektor und Verbindungsvektor
+│   │   ├── Vektoren addieren und subtrahieren
+│   │   ├── Multiplikation mit einem Skalar
+│   │   ├── Betrag eines Vektors
+│   │   ├── Linearkombinationen
+│   │   ├── Kollinearität
+│   │   └── Vektoren in der Ebene und im Raum
+│   ├── Skalarprodukt
+│   │   ├── Berechnung des Skalarprodukts
+│   │   ├── Winkel zwischen Vektoren
+│   │   ├── Orthogonalität
+│   │   └── Anwendungen in Geometrie und Physik
+│   ├── Geraden in Vektorform
+│   │   ├── Parameterform
+│   │   ├── Stützvektor und Richtungsvektor
+│   │   ├── Lagebeziehungen von Geraden
+│   │   ├── Schnittpunkte bestimmen
+│   │   └── Schnittwinkel
+│   ├── Ebenen im Raum
+│   │   ├── Parameterform
+│   │   ├── Normalenform
+│   │   ├── Koordinatenform
+│   │   ├── Normalenvektor
+│   │   ├── Ebenengleichung aufstellen
+│   │   ├── Lagebeziehungen von Ebenen
+│   │   ├── Lagebeziehungen von Gerade und Ebene
+│   │   ├── Schnittgerade und Schnittpunkt
+│   │   └── Winkel zwischen Geraden und Ebenen
+│   ├── Abstände im Raum
+│   │   ├── Punkt–Punkt
+│   │   ├── Punkt–Gerade
+│   │   ├── Punkt–Ebene
+│   │   └── Abstand paralleler Geraden oder Ebenen
+│   └── Anwendungen der analytischen Geometrie
+│       ├── Geometrische Körper
+│       ├── Flugbahnen und Bewegungen
+│       └── Modellierung räumlicher Situationen
+
+├── 11. Trigonometrie und trigonometrische Zusammenhänge
+│   ├── Winkelmaß
+│   │   ├── Gradmaß
+│   │   ├── Bogenmaß
+│   │   └── Umrechnung Gradmaß und Bogenmaß
+│   ├── Sinus, Kosinus und Tangens
+│   ├── Einheitskreis
+│   ├── Vorzeichen der trigonometrischen Funktionen
+│   ├── Trigonometrische Identitäten
+│   ├── Sinus- und Kosinuswerte besonderer Winkel
+│   ├── Trigonometrische Gleichungen
+│   ├── Trigonometrische Funktionen und ihre Graphen
+│   ├── Periodenlänge und Amplitude
+│   └── Periodische Vorgänge modellieren
+
+├── 12. Differentialrechnung
+│   ├── Änderungsraten
+│   │   ├── Absolute und mittlere Änderung
+│   │   ├── Mittlere Änderungsrate
+│   │   ├── Differenzenquotient
+│   │   ├── Sekantensteigung
+│   │   └── Momentane Änderungsrate
+│   ├── Grenzwerte
+│   │   ├── Anschaulicher Grenzwertbegriff
+│   │   ├── Grenzwerte von Funktionen
+│   │   ├── Verhalten im Unendlichen
+│   │   └── Stetigkeit in Grundzügen
+│   ├── Ableitung
+│   │   ├── Ableitung als Grenzwert
+│   │   ├── Ableitungsfunktion
+│   │   ├── Tangentensteigung
+│   │   ├── Tangentengleichung
+│   │   └── Zusammenhang zwischen Funktion und Ableitung
+│   ├── Ableitungsregeln
+│   │   ├── Potenzregel
+│   │   ├── Faktorregel
+│   │   ├── Summenregel
+│   │   ├── Produktregel
+│   │   ├── Quotientenregel
+│   │   ├── Kettenregel
+│   │   ├── Ableitung von Exponentialfunktionen
+│   │   ├── Ableitung von Logarithmusfunktionen
+│   │   └── Ableitung trigonometrischer Funktionen
+│   ├── Kurvendiskussion
+│   │   ├── Definitionsbereich
+│   │   ├── Symmetrie
+│   │   ├── Nullstellen
+│   │   ├── Verhalten an den Rändern des Definitionsbereichs
+│   │   ├── Monotonie
+│   │   ├── Extrempunkte
+│   │   ├── Krümmungsverhalten
+│   │   ├── Wendepunkte
+│   │   ├── Sattel- und Terrassenpunkte
+│   │   └── Graph skizzieren
+│   ├── Extremwertprobleme
+│   │   ├── Zielfunktion aufstellen
+│   │   ├── Nebenbedingungen verwenden
+│   │   ├── Extremstellen bestimmen
+│   │   └── Ergebnisse im Sachkontext interpretieren
+│   ├── Funktionenscharen
+│   │   ├── Parameterabhängigkeit
+│   │   ├── Ortskurven in ausgewählten Fällen
+│   │   └── Gemeinsame Eigenschaften von Graphen
+│   └── Anwendungen
+│       ├── Geschwindigkeit und Beschleunigung
+│       ├── Wachstum und Abnahme
+│       ├── Optimierung
+│       └── Änderungsraten in Sachkontexten
+
+├── 13. Integralrechnung
+│   ├── Flächenproblem
+│   │   ├── Flächeninhalt unter einem Graphen
+│   │   ├── Orientierter Flächeninhalt
+│   │   └── Flächen zwischen Graphen
+│   ├── Stammfunktionen
+│   │   ├── Stammfunktion bestimmen
+│   │   ├── Integrationskonstante
+│   │   └── Grundlegende Integrationsregeln
+│   ├── Bestimmtes Integral
+│   │   ├── Hauptsatz der Differential- und Integralrechnung
+│   │   ├── Berechnung bestimmter Integrale
+│   │   ├── Flächenbilanz
+│   │   └── Geometrischer Flächeninhalt
+│   ├── Integrationsverfahren
+│   │   ├── Potenzregel rückwärts
+│   │   ├── Lineare Substitution in geeigneten Fällen
+│   │   └── Weitere Verfahren je nach Kurs und Vertiefung
+│   ├── Flächenberechnung
+│   │   ├── Fläche zwischen Graph und x-Achse
+│   │   ├── Fläche zwischen zwei Graphen
+│   │   ├── Schnittpunkte als Integrationsgrenzen
+│   │   └── Vorzeichenwechsel beachten
+│   ├── Uneigentliche Integrale in vertiefenden Kontexten
+│   └── Anwendungen
+│       ├── Weg aus Geschwindigkeit
+│       ├── Bestands- und Bilanzprobleme
+│       └── Mittelwerte von Funktionen in geeigneten Kontexten
+
+├── 14. Stochastik und Wahrscheinlichkeitsrechnung
+│   ├── Daten erfassen und darstellen
+│   │   ├── Urliste und Strichliste
+│   │   ├── Häufigkeitstabellen
+│   │   ├── Absolute und relative Häufigkeit
+│   │   ├── Säulen-, Balken- und Kreisdiagramme
+│   │   ├── Linien- und Streudiagramme
+│   │   └── Daten kritisch interpretieren
+│   ├── Statistische Kennwerte
+│   │   ├── Arithmetisches Mittel
+│   │   ├── Median
+│   │   ├── Modalwert
+│   │   ├── Spannweite
+│   │   ├── Quartile und Boxplots
+│   │   ├── Varianz
+│   │   └── Standardabweichung
+│   ├── Zufallsexperimente
+│   │   ├── Zufall und Ergebnis
+│   │   ├── Ergebnismenge
+│   │   ├── Ereignisse
+│   │   ├── Gegenereignis
+│   │   ├── Laplace-Experimente
+│   │   ├── Relative Häufigkeit als Schätzer
+│   │   └── Gesetz der großen Zahlen in Grundzügen
+│   ├── Wahrscheinlichkeiten
+│   │   ├── Klassische Wahrscheinlichkeitsdefinition
+│   │   ├── Additionsregel
+│   │   ├── Gegenwahrscheinlichkeit
+│   │   ├── Baumdiagramme
+│   │   ├── Pfadregeln
+│   │   ├── Vierfeldertafeln
+│   │   ├── Bedingte Wahrscheinlichkeit
+│   │   ├── Unabhängigkeit von Ereignissen
+│   │   └── Satz von Bayes in geeigneten Vertiefungen
+│   ├── Kombinatorik
+│   │   ├── Systematisches Zählen
+│   │   ├── Produktregel
+│   │   ├── Permutationen
+│   │   ├── Variationen
+│   │   ├── Kombinationen
+│   │   ├── Mit und ohne Zurücklegen
+│   │   └── Binomialkoeffizienten
+│   ├── Bernoulli-Experimente
+│   │   ├── Treffer und Niete
+│   │   ├── Bernoulli-Kette
+│   │   ├── Binomialverteilung
+│   │   ├── Parameter n und p
+│   │   ├── Einzelwahrscheinlichkeiten
+│   │   ├── Kumulierte Wahrscheinlichkeiten
+│   │   ├── Erwartungswert
+│   │   ├── Varianz und Standardabweichung
+│   │   └── Anwendungen und Modellkritik
+│   ├── Zufallsgrößen
+│   │   ├── Diskrete Zufallsgrößen
+│   │   ├── Wahrscheinlichkeitsverteilung
+│   │   ├── Erwartungswert
+│   │   ├── Varianz
+│   │   └── Standardabweichung
+│   ├── Normalverteilung
+│   │   ├── Glockenkurve
+│   │   ├── Erwartungswert und Standardabweichung
+│   │   ├── Standardnormalverteilung
+│   │   ├── Standardisieren
+│   │   ├── Näherung der Binomialverteilung
+│   │   └── Anwendungen
+│   ├── Beurteilende Statistik und Testen
+│   │   ├── Hypothesen und Gegenhypothesen
+│   │   ├── Signifikanzniveau in Grundzügen
+│   │   ├── Ablehnungs- und Annahmebereich
+│   │   ├── Fehler erster und zweiter Art in vertiefenden Kontexten
+│   │   └── Interpretation statistischer Aussagen
+│   └── Simulation von Zufall
+│       ├── Zufallszahlen
+│       ├── Simulation mit Tabellenkalkulation oder Programm
+│       ├── Vergleich theoretischer und empirischer Werte
+│       └── Grenzen statistischer Schlussfolgerungen
+
+├── 15. Folgen und Reihen
+│   ├── Zahlenfolgen
+│   ├── Explizite Darstellung
+│   ├── Rekursive Darstellung
+│   ├── Arithmetische Folgen
+│   ├── Geometrische Folgen
+│   ├── Summen von Folgen
+│   ├── Arithmetische Reihen
+│   ├── Geometrische Reihen
+│   ├── Grenzwerte von Folgen
+│   ├── Konvergenz und Divergenz in Grundzügen
+│   └── Anwendungen auf Wachstum und Zinseszins
+
+├── 16. Lineare Algebra und Matrizen (ergänzend/vertiefend)
+│   ├── Vektoren als Daten und Verschiebungen
+│   ├── Matrizen und ihre Einträge
+│   ├── Matrizen addieren und skalieren
+│   ├── Matrix-Vektor-Multiplikation
+│   ├── Lineare Gleichungssysteme in Matrixform
+│   └── Anwendungen und digitale Berechnung
+
+├── 17. Mathematische Logik, Beweisen und Argumentieren
+│   ├── Mathematische Aussagen
+│   ├── Aussage und Gegenbeispiel
+│   ├── Notwendige und hinreichende Bedingungen
+│   ├── Wenn-dann-Aussagen
+│   ├── Umkehrung einer Aussage
+│   ├── Direkter Beweis
+│   ├── Indirekter Beweis in geeigneten Kontexten
+│   ├── Beweis durch Widerspruch
+│   ├── Vollständige Induktion als Vertiefung
+│   └── Fehlerhafte Argumentationen erkennen
+
+├── 18. Modellieren und Problemlösen
+│   ├── Reale Situation mathematisch beschreiben
+│   ├── Informationen aus Texten und Daten entnehmen
+│   ├── Annahmen und Vereinfachungen treffen
+│   ├── Variablen und Parameter festlegen
+│   ├── Gleichungen und Funktionen aufstellen
+│   ├── Diagramme und Tabellen verwenden
+│   ├── Lösungsstrategien planen
+│   ├── Ergebnisse im Kontext interpretieren
+│   ├── Lösungen auf Plausibilität prüfen
+│   ├── Grenzen eines mathematischen Modells bewerten
+│   └── Ergebnisse verständlich darstellen
+
+├── 19. Digitale Werkzeuge und algorithmisches Arbeiten
+│   ├── Wissenschaftlicher Taschenrechner
+│   ├── Dynamische Geometriesoftware
+│   ├── Tabellenkalkulation
+│   ├── Funktionen plotten
+│   ├── Numerische Näherungsverfahren
+│   ├── Gleichungen numerisch lösen
+│   ├── Daten analysieren und visualisieren
+│   ├── Zufallsexperimente simulieren
+│   ├── Algorithmen beschreiben
+│   └── Ergebnisse digital überprüfen
+
+└── 20. Wahl- und Vertiefungsgebiete (je nach Kurs/Schule)
+    ├── Numerische Integrationsverfahren
+    ├── Differentialgleichungen
+    ├── Vertiefte Kurvendiskussion
+    ├── Vertiefte analytische Geometrie
+    ├── Vertiefte Wahrscheinlichkeitsrechnung
+    ├── Numerische Lösungsverfahren
+    ├── Mathematische Modellierung
+    └── Fachübergreifende Anwendungen
+
+ENDE DER THEMENSTRUKTUR
+
+Offizielle Quellen
+1. Sächsische Lehrplan-Datenbank:
+   https://www.schule.sachsen.de/lpdb/
+2. Lehrplan Gymnasium Mathematik, Klassenstufen 5–10 und Jahrgangsstufen 11–12:
+   https://www.schulportal.sachsen.de/lplandb/
+3. Offizielle Lehrplanübersicht und Dokumenten-Download:
+   https://www.schulportal.sachsen.de/lplandb/index.php?lplanid=121
+
+Hinweis zur Vollständigkeit:
+Diese Datei ist als umfangreicher Themenbaum für eine Lern- oder Aufgabensammlung gedacht. Nicht jeder Unterpunkt ist in jeder Klassenstufe verbindlich oder in jeder Kursart vorgesehen. Insbesondere einzelne Vertiefungen (z. B. Satz von Bayes, vollständige Induktion, Matrizen oder uneigentliche Integrale) können über den verbindlichen Kern hinausgehen.
